@@ -1,2 +1,3 @@
 # Hotel_Management_System
-it is an project
+
+This is my JAVA Project, in which i implemented the technology stack - Core Java, JDBC Connection, Mysql Database, JAVA AWT swing.
